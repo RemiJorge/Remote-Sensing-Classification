@@ -4,6 +4,7 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
+</div>
 
 ---
 
@@ -26,7 +27,6 @@ The repository contains:
 [Installation and Execution](#installation) •
 [Contributions](#contributions)
 
-</div>
 
 
 ## Features
@@ -45,15 +45,12 @@ The repository contains:
 
 - [Installation](#installation)
   - [Pre-requisites](#pre-requisites)
-  - [Compilation](#compilation)
 - [Classification Models](#classification-models)
-  - [Single-label CNN](#single-label)
-  - [ResNet Transfer Learning](#resnet)
-  - [Multi-label Classification](#multi-label)
+  - [Single-label CNN](#single-label-cnn)
+  - [ResNet Transfer Learning](#resnet-transfer-learning)
+  - [Multi-label Classification](#multi-label-classification)
 - [Contributions](#contributions)
   - [Authors](#authors)
-  - [Version control](#version-control)
-  - [History](#history)
 
 # Installation
 <sup>[(Back to top)](#table-of-contents)</sup>
@@ -111,8 +108,8 @@ Applied custom loss functions to balance class representation.
 
 ## Authors
 
-- [**Alexandre Deloire**](https://github.com/alexdeloire)
 - [**Remi Jorge**](https://github.com/RemiJorge)
+- [**Alexandre Deloire**](https://github.com/alexdeloire)
 
 ---
 
