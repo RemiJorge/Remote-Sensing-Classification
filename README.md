@@ -110,6 +110,7 @@ Applied custom loss functions to balance class representation.
 
 - [**Remi Jorge**](https://github.com/RemiJorge)
 - [**Alexandre Deloire**](https://github.com/alexdeloire)
+- [**Jiayi He**](https://github.com/JiayiHE95)
 
 ---
 
